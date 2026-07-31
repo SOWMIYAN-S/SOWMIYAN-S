@@ -1,0 +1,231 @@
+<p align="center">
+  <img src="https://github.com/SOWMIYAN-S/SOWMIYAN-S/blob/main/Sowmiyan%20S_20250529_163008_0001.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sowmiyan-s&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Views">
+  <img src="https://img.shields.io/github/followers/sowmiyan-s?style=for-the-badge&logo=github&color=00F7FF&labelColor=0d1117" alt="Followers">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s?style=for-the-badge&logo=github&color=FFD700&labelColor=0d1117" alt="Stars">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+LLM+SYSTEMS+ENGINEER;MULTI-AGENT+ARCHITECT;FOUNDER+%40+BOUND+BY+CODE;BUILDING+THE+FUTURE+WITH+AI" />
+</p>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+```yaml
+name        : Sowmiyan S
+title       : AI & Data Science Student | Software Developer
+focus       : LLM Frameworks · RAG Pipelines · Agentic AI
+community   : Founder @ Bound by Code
+location    : India 🇮🇳
+currently   : Building production-grade AI systems & multi-agent architectures
+```
+
+- 🧠 **AI-First Builder** — Designing intelligent pipelines with LangChain, CrewAI & NVIDIA NeMo
+- 🏗️ **Scalable Systems** — From monolith to microservices, I architect for scale
+- 🌍 **Community Leader** — Mentoring next-gen engineers through **Bound by Code**
+- 📖 **Continuous Learner** — Exploring frontier AI, agentic loops, and edge deployment
+
+---
+
+## 🛠 TECHNOLOGY STACK
+
+### 🧠 AI / ML / Data Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine%20Tuning-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-800080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
+</p>
+
+### 💻 Languages & Web
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Others
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 🏆 LEETCODE VISUALIZATION
+
+<!-- Primary card — stats + submission heatmap (most reliable) -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sowmiyan-s?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats + Heatmap" width="70%"/>
+</p>
+
+<!-- Ranking badge -->
+<p align="center">
+  <a href="https://leetcode.com/sowmiyan-s">
+    <img src="https://img.shields.io/badge/View_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<!-- PROJECTS_START -->
+
+### 🚀 [crewlyze](https://github.com/sowmiyan-s/crewlyze)
+> Autonomous Data Intelligence as a Service | A premium, modular data-analyst pipeline powered by LLM-driven agents. 
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/crewlyze?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
+> Production-ready Claude Skills for developers, creators, founders, and AI power users.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [Java-Problem-Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
+> Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/Java-Problem-Solutions?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [FIFA-REFEREE](https://github.com/sowmiyan-s/FIFA-REFEREE)
+> A live ai referee for football game
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/FIFA-REFEREE?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [sowmiyan-s-portfolio](https://github.com/sowmiyan-s/sowmiyan-s-portfolio)
+> A personalized portfolio website showcasing my projects, skills, and experience.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/sowmiyan-s-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
+</p>
+<!-- PROJECTS_END -->
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowmiyan-s&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sowmiyan-s&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowmiyan-s&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sowmiyan-s&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=blueviolet&currStreakLabel=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyan-s&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
+</p>
+
+---
+
+## 🧱 3D CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</p>
+
+---
+
+## 🌐 BOUND BY CODE COMMUNITY
+
+> **Bound by Code** — Where creators and innovators collide. Bridging the gap between learning and building through hands-on AI/Web workshops, hackathons, and premium tech content.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Coding_Contests-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛠️_AI_Workshops-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎥_Dev_Content-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎁_Tech_Giveaways-FFD700?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/@bound-by-code">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://instagram.com/bound_by_code">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/company/bound-by-code">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🤝 GET IN TOUCH
+
+<p align="center">
+  <a href="mailto:sowmiyan.btech.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/sowmiyan-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/sowmiyan_s_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://github.com/sowmiyan-s">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/sowmiyan-s">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+</p>
+
+<p align="center">
+  <i>⚡ "Build systems. Understand fundamentals. Stay relentlessly curious." ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
