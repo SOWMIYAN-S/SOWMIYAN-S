@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="20%" stop-color="#6C47FF"/>
+      <stop offset="50%" stop-color="#00F7FF"/>
+      <stop offset="80%" stop-color="#6C47FF"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="foot-glow">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <radialGradient id="star-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="#0d1117"/>
+
+  <!-- Top glow line -->
+  <line x1="50" y1="10" x2="1150" y2="10" stroke="url(#footer-line)" stroke-width="1" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="50" y1="10" x2="1150" y2="10" stroke="url(#footer-line)" stroke-width="6" filter="url(#foot-glow)" opacity="0.2">
+    <animate attributeName="opacity" values="0.1;0.3;0.1" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Quote -->
+  <text x="600" y="55" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-style="italic" fill="#8B949E" opacity="0.8">
+    "Build systems. Understand fundamentals. Stay relentlessly curious."
+  </text>
+
+  <!-- Star accents -->
+  <g>
+    <circle cx="280" cy="52" r="8" fill="url(#star-glow)" filter="url(#foot-glow)"/>
+    <text x="280" y="57" text-anchor="middle" font-size="14">⚡</text>
+    <circle cx="920" cy="52" r="8" fill="url(#star-glow)" filter="url(#foot-glow)"/>
+    <text x="920" y="57" text-anchor="middle" font-size="14">⚡</text>
+  </g>
+
+  <!-- Signature -->
+  <text x="600" y="85" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#6C47FF" opacity="0.5" letter-spacing="4">
+    CRAFTED WITH PASSION · SOWMIYAN S · 2025
+  </text>
+
+  <!-- Bottom dots decoration -->
+  <g opacity="0.3">
+    <circle cx="540" cy="105" r="1.5" fill="#00F7FF">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="105" r="1.5" fill="#6C47FF">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="580" cy="105" r="1.5" fill="#FFD700">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="105" r="2" fill="#00F7FF">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="105" r="1.5" fill="#FFD700">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="105" r="1.5" fill="#6C47FF">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="660" cy="105" r="1.5" fill="#00F7FF">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

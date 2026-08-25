@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40">
+  <defs>
+    <linearGradient id="div-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="15%" stop-color="#6C47FF"/>
+      <stop offset="50%" stop-color="#00F7FF"/>
+      <stop offset="85%" stop-color="#6C47FF"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="div-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F7FF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00F7FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="div-blur">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="40" fill="#0d1117"/>
+
+  <!-- Glow behind the line -->
+  <line x1="100" y1="20" x2="1100" y2="20" stroke="url(#div-glow)" stroke-width="8" filter="url(#div-blur)" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Main divider line -->
+  <line x1="100" y1="20" x2="1100" y2="20" stroke="url(#div-line)" stroke-width="1.5" opacity="0.8"/>
+
+  <!-- Center diamond -->
+  <polygon points="600,12 608,20 600,28 592,20" fill="#00F7FF" opacity="0.7">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="600,14 606,20 600,26 594,20" fill="#0d1117"/>
+
+  <!-- Side diamonds -->
+  <polygon points="350,16 355,20 350,24 345,20" fill="#6C47FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="850,16 855,20 850,24 845,20" fill="#6C47FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Accent dots -->
+  <circle cx="200" cy="20" r="2" fill="#00F7FF" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="20" r="2" fill="#00F7FF" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

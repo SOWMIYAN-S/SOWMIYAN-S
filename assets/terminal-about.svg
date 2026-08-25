@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="term-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C47FF" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#00F7FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#6C47FF" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="title-bar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#21222c"/>
+      <stop offset="100%" stop-color="#1a1b27"/>
+    </linearGradient>
+    <filter id="term-glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Terminal Window -->
+  <rect x="2" y="2" width="896" height="276" rx="12" fill="url(#term-bg)" stroke="url(#term-border)" stroke-width="1.5"/>
+
+  <!-- Title Bar -->
+  <rect x="2" y="2" width="896" height="36" rx="12" fill="url(#title-bar)"/>
+  <rect x="2" y="26" width="896" height="12" fill="url(#title-bar)"/>
+
+  <!-- Traffic Lights -->
+  <circle cx="24" cy="20" r="6" fill="#FF5F57" opacity="0.85"/>
+  <circle cx="44" cy="20" r="6" fill="#FFBD2E" opacity="0.85"/>
+  <circle cx="64" cy="20" r="6" fill="#28C840" opacity="0.85"/>
+
+  <!-- Window Title -->
+  <text x="450" y="24" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#8B949E" opacity="0.7">sowmiyan@neural-forge — ~/about</text>
+
+  <!-- Terminal Content -->
+  <g font-family="'SF Mono', 'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <!-- Prompt Line -->
+    <text x="24" y="62">
+      <tspan fill="#6C47FF">❯</tspan>
+      <tspan fill="#00F7FF"> cat</tspan>
+      <tspan fill="#8B949E"> identity.yml</tspan>
+    </text>
+
+    <!-- YAML Content -->
+    <text x="24" y="90" fill="#6C47FF">---</text>
+
+    <text x="24" y="112">
+      <tspan fill="#00F7FF">name</tspan><tspan fill="#8B949E">:</tspan>
+      <tspan fill="#E6EDF3">        Sowmiyan S</tspan>
+    </text>
+
+    <text x="24" y="134">
+      <tspan fill="#00F7FF">title</tspan><tspan fill="#8B949E">:</tspan>
+      <tspan fill="#E6EDF3">       AI &amp; Data Science Student | Developer</tspan>
+    </text>
+
+    <text x="24" y="156">
+      <tspan fill="#00F7FF">focus</tspan><tspan fill="#8B949E">:</tspan>
+      <tspan fill="#E6EDF3">       LLM Frameworks · RAG · Agentic AI</tspan>
+    </text>
+
+    <text x="24" y="178">
+      <tspan fill="#00F7FF">community</tspan><tspan fill="#8B949E">:</tspan>
+      <tspan fill="#E6EDF3">   Founder @ </tspan><tspan fill="#FFD700">Bound by Code</tspan>
+    </text>
+
+    <text x="24" y="200">
+      <tspan fill="#00F7FF">location</tspan><tspan fill="#8B949E">:</tspan>
+      <tspan fill="#E6EDF3">    India 🇮🇳</tspan>
+    </text>
+
+    <text x="24" y="222">
+      <tspan fill="#00F7FF">mission</tspan><tspan fill="#8B949E">:</tspan>
+      <tspan fill="#E6EDF3">     Building production-grade AI systems</tspan>
+    </text>
+
+    <text x="24" y="244">
+      <tspan fill="#E6EDF3">              &amp; multi-agent architectures</tspan>
+    </text>
+
+    <!-- Blinking cursor -->
+    <rect x="24" y="256" width="8" height="14" fill="#00F7FF" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
