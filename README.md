@@ -135,22 +135,6 @@
   <img src="./assets/divider.svg" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                            GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="./assets/header-trophies.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sowmiyan-s&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="./assets/divider.svg" width="100%"/>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB ANALYTICS                                -->
