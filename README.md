@@ -3,9 +3,9 @@
 <!--        Custom-designed GitHub profile with handcrafted SVG assets        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- HERO BANNER — Custom animated SVG with neural network nodes & particles -->
+<!-- HERO BANNER — Retro Stylized Aesthetic Animated SVG with Synthwave Sunset, Rolling Grid & Curly Typography -->
 <p align="center">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Sowmiyan S — AI & LLM Systems Engineer"/>
+  <img src="./assets/hero-banner.svg" width="100%" alt="Sowmiyan S — AI &amp; LLM Systems Engineer"/>
 </p>
 
 <!-- Profile Metrics Bar -->
@@ -25,7 +25,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%E2%9A%A1+AI+%26+LLM+Systems+Engineer+%7C+Multi-Agent+Architect;%F0%9F%9A%80+Building+production-grade+AI+systems+that+think%2C+learn+%26+scale" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=900&amp;height=80&amp;lines=%E2%9A%A1+Software+Developer+%E2%80%A2+AI+Engineer+%E2%80%A2+Tech+Creator+%E2%80%A2+Freelancer;%F0%9F%9A%80+Building+production-grade+software+%26+AI+systems+that+scale" alt="Typing SVG"/>
 </p>
 
 <!-- Animated Divider -->
