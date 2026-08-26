@@ -242,29 +242,31 @@
 
 <h3 align="center">🤖 <a href="https://github.com/sowmiyan-s/crewlyze">Crewlyze</a></h3>
 
-<p align="center"><em>Autonomous Data Intelligence as a Service</em></p>
+<p align="center"><em>Autonomous Data Intelligence &amp; Multi-Agent Analytics</em></p>
 
-> A premium, modular data-analyst pipeline powered by LLM-driven agents. Multi-agent orchestration for automated insights.
+> A modular data-analyst pipeline powered by LLM-driven multi-agent orchestration. Automates data ingestion, exploratory analysis, statistical insights, and executive chart generation.
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/sowmiyan-s/crewlyze?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AI_Agents-6C47FF?style=flat-square" alt="AI"/>
+  <img src="https://img.shields.io/badge/CrewAI-6C47FF?style=flat-square" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📚 <a href="https://github.com/sowmiyan-s/awesome-claude-skills">Awesome Claude Skills</a></h3>
+<h3 align="center">🛡️ <a href="https://github.com/sowmiyan-s/GUARD-RAG">GUARD-RAG</a></h3>
 
-<p align="center"><em>Curated Claude Intelligence</em></p>
+<p align="center"><em>Secure Offline-Capable RAG &amp; LLM Guardrails</em></p>
 
-> Production-ready Claude Skills for developers, creators, founders, and AI power users. Battle-tested prompts & workflows.
+> Privacy-first, offline-capable Retrieval-Augmented Generation framework built as a Python package. Features semantic vector search, strict guardrails against hallucinations, and enterprise privacy safeguards.
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Skills-00F7FF?style=flat-square" alt="Skills"/>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/RAG-800080?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM_Guardrails-00F7FF?style=flat-square" alt="Guardrails"/>
 </p>
 
 </td>
@@ -272,48 +274,33 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">⚽ <a href="https://github.com/sowmiyan-s/FIFA-REFEREE">FIFA Referee</a></h3>
+<h3 align="center">🌐 <a href="https://github.com/sowmiyan-s/We-Share">We-Share</a></h3>
 
-<p align="center"><em>AI-Powered Match Officiating</em></p>
+<p align="center"><em>Collaborative Knowledge &amp; Resource Sharing Platform</em></p>
 
-> Live AI Referee for football — real-time computer vision-powered match officiating with instant decision feedback.
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/FIFA-REFEREE?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/AI_Vision-76B900?style=flat-square" alt="Vision"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">💼 <a href="https://github.com/sowmiyan-s/sowmiyan-s-portfolio">Portfolio</a></h3>
-
-<p align="center"><em>Premium Personal Website</em></p>
-
-> Personal portfolio website showcasing projects, skills, and experience with a modern, premium UI/UX design.
+> Modern full-stack platform enabling peer-to-peer resource sharing, real-time collaboration, and community content discovery with lightning-fast cloud synchronization.
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/sowmiyan-s-portfolio?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Cloud-00F7FF?style=flat-square" alt="Cloud"/>
 </p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
-<h3 align="center">☕ <a href="https://github.com/sowmiyan-s/Java-Problem-Solutions">Java Problem Solutions</a></h3>
+<h3 align="center">🦺 <a href="https://github.com/sowmiyan-s/PPE-Detection-and-Management-System">PPE Detection &amp; Safety AI</a></h3>
 
-<p align="center"><em>DSA Mastery in Java</em></p>
+<p align="center"><em>Real-Time Computer Vision Compliance System</em></p>
 
-> Comprehensive collection of algorithms and data structure solutions — clean, well-documented implementations covering arrays, trees, graphs, DP & more.
+> Intelligent workplace safety system leveraging YOLOv8 computer vision and ByteTrack multi-object tracking paired with an interactive React management dashboard for automated compliance monitoring.
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/Java-Problem-Solutions?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=flat-square" alt="DSA"/>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/PPE-Detection-and-Management-System?style=flat-square&logo=github&color=FFD700&labelColor=0d1117" alt="Stars"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
 </p>
 
 </td>
