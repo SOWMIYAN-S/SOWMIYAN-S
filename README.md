@@ -171,22 +171,7 @@
   <img src="./assets/divider.svg" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        CONTRIBUTION SNAKE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="./assets/header-snake.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sowmiyan-s/sowmiyan-s/main/github-snake-dark.svg" alt="Snake animation" width="100%"/>
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="./assets/divider.svg" width="100%"/>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                        LEETCODE VISUALIZATION                            -->
